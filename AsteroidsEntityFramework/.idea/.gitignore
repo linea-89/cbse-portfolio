@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\MetteMarie\OneDrive - Syddansk Universitet\Documents\4 sem\Komponentbaserede systemer\SB4-KOM-F20-master\AsteroidsServiceLoader\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
